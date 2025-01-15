@@ -60,3 +60,6 @@ If you are saving your progress on freeCodeCamp.org, after getting all the tests
 - Each primary key column should follow the naming convention table_name_id. For example, the moon table should have a primary key column named moon_id
 
 - Each foreign key column should have the same name as the column it is referencing
+
+  <img width="937" alt="image" src="https://github.com/user-attachments/assets/896d1ed4-cabe-4efa-a60f-9d6bfaa73582" />
+
